@@ -1,5 +1,5 @@
 # wifi-scanner
-Kablosuz ağ arama için yapılan uygulmamız
+Kablosuz ağ arama ssid ve wifi kanallarını bulur için yapılan uygulmamız
 
 ## Kurulum 
 
